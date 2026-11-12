@@ -1,0 +1,15 @@
+# 构建产物
+build/
+target/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+*.o
+hello_c
+hello_cpp
+
+# 依赖与虚拟环境
+node_modules/
+python-samples/.venv/
+Cargo.lock
+__pycache__
+
